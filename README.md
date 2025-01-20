@@ -1,16 +1,38 @@
-# tarif_defterim
+# Tarif Defterim 🍴
 
-A new Flutter project.
+**Tarif Defterim**, yemek tariflerini kolayca kaydedebileceğiniz, düzenleyebileceğiniz ve paylaşabileceğiniz bir mobil uygulamadır. Kullanıcı dostu arayüzü ve modern tasarımıyla yemek severlere hitap eden bu uygulama, tariflerinizi dijital bir ortamda saklamanın yanı sıra, mutfakta zamanınızı daha verimli kullanmanıza yardımcı olur.
 
-## Getting Started
+Bu proje, Flutter kullanılarak geliştirilmiş ve Firebase ile entegre edilmiştir. Mobil Programlama dersi Final projesi olarak tasarlanmıştır ve geliştirilmeye devam edilecektir.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 Uygulamanın Amacı
+Günümüzde birçok insan yemek tariflerini çeşitli not defterlerinde, web sitelerinde veya ekran görüntülerinde saklıyor. Ancak, bu yöntemler genellikle düzenleme ve erişim açısından kullanışsız olabiliyor. **Tarif Defterim**, bu sorunu çözmek için geliştirilmiştir.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu uygulama sayesinde:  
+- Tariflerinizi dijital ortamda güvenli bir şekilde saklayabilir,  
+- İstediğiniz zaman tariflerinizi görüntüleyebilir ve düzenleyebilir,  
+- Favori tariflerinizi ayırarak kolayca erişebilirsiniz.
+  
+---
+
+## 📱 Ekranlar
+
+
+
+
+---
+
+## 🌟 Öne Çıkan Özellikler
+1. **Kullanıcı Kayıt ve Giriş Sistemi**: Her kullanıcı kendi profilinde tariflerini saklayabilir.
+2. **Tarif Kategorileri**: Tariflerinizi kategorilere ayırarak daha düzenli bir yapı oluşturabilirsiniz (örneğin, kahvaltı, ana yemek, tatlılar).
+3. **Favoriler**: Sık kullandığınız tarifleri favori listenize ekleyebilirsiniz.
+4. **Kolay Düzenleme ve Silme**: Tarifleriniz üzerinde istediğiniz zaman değişiklik yapabilirsiniz.
+5. **Responsive Tasarım**: Uygulama, tüm cihazlarda sorunsuz çalışacak şekilde tasarlanmıştır.
+6. **Firebase Entegrasyonu**: Tariflerinizi güvenli bir şekilde bulutta saklayabilirsiniz.
+
+---
+
+
+
