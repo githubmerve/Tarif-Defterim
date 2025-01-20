@@ -21,8 +21,16 @@ Bu uygulama sayesinde:
 
 ## 📱 Ekranlar
 
-
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/3fa2da50-c26e-4a71-bceb-014a3d2cd35c" alt="Ekran görüntüsü 1" width="220" />
+   <img src="https://github.com/user-attachments/assets/9a8970ce-f311-4c72-bb1c-81cc446f8286" alt="Ekran görüntüsü 1" width="220" />
+  <img src="https://github.com/user-attachments/assets/1de39d22-3309-4854-99eb-2b1af4d79f66" alt="Ekran görüntüsü 2" width="220" />
+  <img src="https://github.com/user-attachments/assets/500731ee-8794-4a85-b8e1-78c5f8b5953e" alt="Ekran görüntüsü 3" width="220" />
+  <img src="https://github.com/user-attachments/assets/06fbba47-96b3-4250-9f3f-1cc171f77932" alt="Ekran görüntüsü 4" width="220" />
+  <img src="https://github.com/user-attachments/assets/ab70833b-1061-4261-9f33-24633bc56f89" alt="Ekran görüntüsü 5" width="220" />
+  <img src="https://github.com/user-attachments/assets/210a6217-c62c-4e7e-8281-ad1eac5799a7" alt="Ekran görüntüsü 6" width="220" />
+  <img src="https://github.com/user-attachments/assets/6f699748-1fd9-4190-af5d-395e32c2ae2a" alt="Ekran görüntüsü 7" width="220" />
+</div>
 
 ---
 
