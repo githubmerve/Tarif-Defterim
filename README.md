@@ -4,6 +4,8 @@
 
 Bu proje, Flutter kullanılarak geliştirilmiş ve Firebase ile entegre edilmiştir. Mobil Programlama dersi Final projesi olarak tasarlanmıştır ve geliştirilmeye devam edilecektir.
 
+Projenin detayları için; https://youtu.be/WsDpoDkmYUA?si=R-fx5_EglxKiKCj-
+
 ---
 
 
